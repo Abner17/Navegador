@@ -1,0 +1,11 @@
+c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaDatos\bin\Debug\CapaDatos.dll
+c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaDatos\bin\Debug\CapaDatos.pdb
+c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaDatos\obj\Debug\CapaDatos.dll
+c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\abner\source\repos\CapaDatos\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\abner\source\repos\CapaDatos\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\abner\source\repos\CapaDatos\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\abner\source\repos\CapaDatos\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\abner\source\repos\CapaDatos\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\abner\source\repos\CapaDatos\CapaDatos\obj\Debug\CapaDatos.pdb

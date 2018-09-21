@@ -1,0 +1,26 @@
+c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaDiseno\bin\Debug\CapaDiseno.dll
+c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaDiseno\bin\Debug\CapaDiseno.pdb
+c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaDiseno\obj\Debug\CapaDiseno.csprojResolveAssemblyReference.cache
+c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaDiseno\obj\Debug\CapaDiseno.Navegador.resources
+c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaDiseno\obj\Debug\CapaDiseno.csproj.GenerateResource.Cache
+c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaDiseno\obj\Debug\CapaDiseno.dll
+c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaDiseno\obj\Debug\CapaDiseno.pdb
+c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaDiseno\obj\Debug\CapaDiseno.Properties.Resources.resources
+C:\Users\Julio\documents\visual studio 2015\Projects\CapaDatos\CapaDiseno\bin\Debug\CapaLogica.dll
+C:\Users\Julio\documents\visual studio 2015\Projects\CapaDatos\CapaDiseno\bin\Debug\CapaLogica.pdb
+C:\Users\Julio\documents\visual studio 2015\Projects\CapaDatos\CapaDiseno\bin\Debug\CapaDatos.dll
+C:\Users\Julio\documents\visual studio 2015\Projects\CapaDatos\CapaDiseno\bin\Debug\CapaDatos.pdb
+C:\Users\abner\source\repos\CapaDatos\CapaDiseno\bin\Debug\CapaDiseno.dll
+C:\Users\abner\source\repos\CapaDatos\CapaDiseno\bin\Debug\CapaDiseno.pdb
+C:\Users\abner\source\repos\CapaDatos\CapaDiseno\bin\Debug\CapaLogica.dll
+C:\Users\abner\source\repos\CapaDatos\CapaDiseno\bin\Debug\CapaDatos.dll
+C:\Users\abner\source\repos\CapaDatos\CapaDiseno\bin\Debug\CapaLogica.pdb
+C:\Users\abner\source\repos\CapaDatos\CapaDiseno\bin\Debug\CapaDatos.pdb
+C:\Users\abner\source\repos\CapaDatos\CapaDiseno\obj\Debug\CapaDiseno.csprojResolveAssemblyReference.cache
+C:\Users\abner\source\repos\CapaDatos\CapaDiseno\obj\Debug\CapaDiseno.Navegador.resources
+C:\Users\abner\source\repos\CapaDatos\CapaDiseno\obj\Debug\CapaDiseno.Properties.Resources.resources
+C:\Users\abner\source\repos\CapaDatos\CapaDiseno\obj\Debug\CapaDiseno.csproj.GenerateResource.cache
+C:\Users\abner\source\repos\CapaDatos\CapaDiseno\obj\Debug\CapaDiseno.csproj.CoreCompileInputs.cache
+C:\Users\abner\source\repos\CapaDatos\CapaDiseno\obj\Debug\CapaDiseno.csproj.CopyComplete
+C:\Users\abner\source\repos\CapaDatos\CapaDiseno\obj\Debug\CapaDiseno.dll
+C:\Users\abner\source\repos\CapaDatos\CapaDiseno\obj\Debug\CapaDiseno.pdb
