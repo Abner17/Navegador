@@ -140,5 +140,18 @@ namespace CapaDiseno
             }
             
         }
+
+        private void Btn_salir_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("¿Desea Salir?", "Salir", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1) == System.Windows.Forms.DialogResult.Yes)
+            {
+                this.close();
+            }
+        }
+
+        private void close()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
