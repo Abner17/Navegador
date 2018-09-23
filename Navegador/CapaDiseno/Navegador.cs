@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CapaDatos;
 using CapaLogica;
 
 namespace CapaDiseno
@@ -14,7 +15,11 @@ namespace CapaDiseno
 
     public partial class Navegador : UserControl
     {
+        Sentencia sentencia = new Sentencia();
         Logica lo = new Logica();
+        static int cantidadCampos;
+        static string tabla;
+        static string[] camposTabla;
 
         //Insertar lista = new Insertar();
         List<string> campos = new List<string>();
@@ -82,8 +87,16 @@ namespace CapaDiseno
 
         }
        
+        public void ingresarTabla_Campos(string table, params string[] camposIniciales)
+        {
+            cantidadCampos = camposIniciales.Length;
+            tabla = table;
+            camposTabla = camposIniciales;
+        }
+
         private void Btn_ingresar_Click(object sender, EventArgs e)
         {
+            sentencia.insertar(tabla, camposTabla);
             bool verificarIngreso = true;
             int j = 0;
             foreach (Control componente in forma.Controls)
@@ -95,32 +108,44 @@ namespace CapaDiseno
                 }
             }
             nControl = j;
-            string[] arrayCampos = campos.ToArray();
-
-            foreach (Control componente in forma.Controls)
+            if (j == cantidadCampos)
             {
-                if ((componente is TextBox) || (componente is ComboBox))
+                string[] arrayCampos = campos.ToArray();
+
+                foreach (Control componente in forma.Controls)
                 {
-                    try
+                    if ((componente is TextBox) || (componente is ComboBox))
                     {
-                        string num = componente.Tag.ToString();
-                        int numero = Convert.ToInt32(num) - 1;
-                        arrayCampos[numero] = componente.Text;
-                        componente.Text = "";
-                    }catch (Exception)
-                    {
-                        verificarIngreso = false;
-                        MessageBox.Show("No se ha ingresado el Tag");
+                        try
+                        {
+                            string num = componente.Tag.ToString();
+                            int numero = Convert.ToInt32(num) - 1;
+                            arrayCampos[numero] = componente.Text;
+                            componente.Text = "";
+                        }
+                        catch (Exception)
+                        {
+                            verificarIngreso = false;
+                            MessageBox.Show("No se ha ingresado el Tag del elemento " + componente.Name);
+                        }
                     }
                 }
-            }
-            
-            if(verificarIngreso)
-                MessageBox.Show("Ingreso exitoso");
 
-            for (int i = 0; i < arrayCampos.Length; i++)
+                for (int i = 0; i < arrayCampos.Length; i++)
+                {
+                    sentencia.insertarCampos(arrayCampos[i]);
+                    arrayCampos[i] = "";
+                }
+
+                if (verificarIngreso)
+                {
+                    sentencia.terminarSentencia();
+                    MessageBox.Show("Ingreso exitoso");
+                }
+            }
+            else
             {
-                arrayCampos[i] = "";
+                MessageBox.Show("La cantidad de parametros no es igual a la cantidad de campos");
             }
         }
 
@@ -139,19 +164,6 @@ namespace CapaDiseno
                 
             }
             
-        }
-
-        private void Btn_salir_Click(object sender, EventArgs e)
-        {
-            if (MessageBox.Show("¿Desea Salir?", "Salir", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1) == System.Windows.Forms.DialogResult.Yes)
-            {
-                this.close();
-            }
-        }
-
-        private void close()
-        {
-            throw new NotImplementedException();
         }
     }
 }

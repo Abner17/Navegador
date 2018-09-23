@@ -14,3 +14,12 @@ C:\Users\abner\source\repos\CapaDatos\CapaLogica\obj\Debug\CapaLogica.csproj.Cor
 C:\Users\abner\source\repos\CapaDatos\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
 C:\Users\abner\source\repos\CapaDatos\CapaLogica\obj\Debug\CapaLogica.dll
 C:\Users\abner\source\repos\CapaDatos\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\abner\source\repos\Navegador\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\abner\source\repos\Navegador\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\abner\source\repos\Navegador\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\abner\source\repos\Navegador\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\abner\source\repos\Navegador\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\abner\source\repos\Navegador\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\abner\source\repos\Navegador\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\abner\source\repos\Navegador\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\abner\source\repos\Navegador\CapaLogica\obj\Debug\CapaLogica.pdb

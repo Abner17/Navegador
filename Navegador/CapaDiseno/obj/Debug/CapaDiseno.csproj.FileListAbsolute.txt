@@ -24,3 +24,17 @@ C:\Users\abner\source\repos\CapaDatos\CapaDiseno\obj\Debug\CapaDiseno.csproj.Cor
 C:\Users\abner\source\repos\CapaDatos\CapaDiseno\obj\Debug\CapaDiseno.csproj.CopyComplete
 C:\Users\abner\source\repos\CapaDatos\CapaDiseno\obj\Debug\CapaDiseno.dll
 C:\Users\abner\source\repos\CapaDatos\CapaDiseno\obj\Debug\CapaDiseno.pdb
+C:\Users\abner\source\repos\Navegador\CapaDiseno\bin\Debug\CapaDiseno.dll
+C:\Users\abner\source\repos\Navegador\CapaDiseno\bin\Debug\CapaDiseno.pdb
+C:\Users\abner\source\repos\Navegador\CapaDiseno\bin\Debug\CapaLogica.dll
+C:\Users\abner\source\repos\Navegador\CapaDiseno\bin\Debug\CapaDatos.dll
+C:\Users\abner\source\repos\Navegador\CapaDiseno\bin\Debug\CapaLogica.pdb
+C:\Users\abner\source\repos\Navegador\CapaDiseno\bin\Debug\CapaDatos.pdb
+C:\Users\abner\source\repos\Navegador\CapaDiseno\obj\Debug\CapaDiseno.csprojResolveAssemblyReference.cache
+C:\Users\abner\source\repos\Navegador\CapaDiseno\obj\Debug\CapaDiseno.Navegador.resources
+C:\Users\abner\source\repos\Navegador\CapaDiseno\obj\Debug\CapaDiseno.Properties.Resources.resources
+C:\Users\abner\source\repos\Navegador\CapaDiseno\obj\Debug\CapaDiseno.csproj.GenerateResource.cache
+C:\Users\abner\source\repos\Navegador\CapaDiseno\obj\Debug\CapaDiseno.csproj.CoreCompileInputs.cache
+C:\Users\abner\source\repos\Navegador\CapaDiseno\obj\Debug\CapaDiseno.csproj.CopyComplete
+C:\Users\abner\source\repos\Navegador\CapaDiseno\obj\Debug\CapaDiseno.dll
+C:\Users\abner\source\repos\Navegador\CapaDiseno\obj\Debug\CapaDiseno.pdb
