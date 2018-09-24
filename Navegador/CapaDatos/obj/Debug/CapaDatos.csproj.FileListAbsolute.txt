@@ -15,3 +15,9 @@ C:\Users\abner\source\repos\Navegador\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\abner\source\repos\Navegador\CapaDatos\obj\Debug\CapaDatos.pdb
 C:\Users\abner\source\repos\Navegador\CapaDatos\bin\Debug\CapaDatos.dll
 C:\Users\abner\source\repos\Navegador\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.pdb

@@ -10,6 +10,7 @@ namespace CapaDatos
     {
         public static string sql;
         string[] campos;
+        int posicion = 1;
 
         //Creacion de sentencia para Insertar
         public void insertar(string tabla, params string[] campos)
@@ -46,6 +47,25 @@ namespace CapaDatos
             sql = "";
             this.campos = campos;
             sql = "UPDATE " + tabla + " SET ";
+        }
+        public void modificarCampos(string campo)
+        {
+            if (posicion < campos.Length)
+            {
+                sql = sql + campos[posicion] + " = '" + campo + "', ";
+                posicion++;
+            }
+            else
+            {
+                Console.WriteLine("Error indice incorrecto");
+            }
+        }
+        public void terminarSentenciaModificar(string llavePrimaria)
+        {
+            char[] quitar = { ',', ' ' };
+            sql = sql.TrimEnd(quitar);
+            sql = sql + " WHERE " + campos[0] + " = '" + llavePrimaria + "';";
+            Console.WriteLine(sql);
         }
     }
 }

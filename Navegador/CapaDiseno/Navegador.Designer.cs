@@ -80,6 +80,7 @@
             this.Btn_editar.Text = "Editar";
             this.Btn_editar.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.Btn_editar.UseVisualStyleBackColor = false;
+            this.Btn_editar.Click += new System.EventHandler(this.Btn_editar_Click);
             // 
             // Btn_guardar
             // 

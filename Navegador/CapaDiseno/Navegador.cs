@@ -140,7 +140,7 @@ namespace CapaDiseno
                 if (verificarIngreso)
                 {
                     sentencia.terminarSentencia();
-                    MessageBox.Show("Ingreso exitoso");
+                    MessageBox.Show("Ingreso Exitoso");
                 }
             }
             else
@@ -164,6 +164,15 @@ namespace CapaDiseno
                 
             }
             
+        }
+
+        private void Btn_editar_Click(object sender, EventArgs e)
+        {
+            sentencia.actualizar(tabla, camposTabla);
+            sentencia.modificarCampos("karla");
+            sentencia.modificarCampos("guatemala");
+            sentencia.terminarSentenciaModificar("002");
+            MessageBox.Show("Edicion Exitosa");
         }
     }
 }
