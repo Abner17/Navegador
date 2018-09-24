@@ -3,21 +3,8 @@ c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaDatos\bin\Deb
 c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
 c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaDatos\obj\Debug\CapaDatos.dll
 c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaDatos\obj\Debug\CapaDatos.pdb
-C:\Users\abner\source\repos\CapaDatos\CapaDatos\bin\Debug\CapaDatos.dll
-C:\Users\abner\source\repos\CapaDatos\CapaDatos\bin\Debug\CapaDatos.pdb
-C:\Users\abner\source\repos\CapaDatos\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
-C:\Users\abner\source\repos\CapaDatos\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
-C:\Users\abner\source\repos\CapaDatos\CapaDatos\obj\Debug\CapaDatos.dll
-C:\Users\abner\source\repos\CapaDatos\CapaDatos\obj\Debug\CapaDatos.pdb
-C:\Users\abner\source\repos\Navegador\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
-C:\Users\abner\source\repos\Navegador\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
-C:\Users\abner\source\repos\Navegador\CapaDatos\obj\Debug\CapaDatos.dll
-C:\Users\abner\source\repos\Navegador\CapaDatos\obj\Debug\CapaDatos.pdb
-C:\Users\abner\source\repos\Navegador\CapaDatos\bin\Debug\CapaDatos.dll
-C:\Users\abner\source\repos\Navegador\CapaDatos\bin\Debug\CapaDatos.pdb
-C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaDatos\bin\Debug\CapaDatos.dll
-C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaDatos\bin\Debug\CapaDatos.pdb
-C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
-C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
-C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.dll
-C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\CapaDatos\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CapaDatos\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\CapaDatos\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\CapaDatos\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CapaDatos\CapaDatos\obj\Debug\CapaDatos.pdb

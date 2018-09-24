@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CapaDatos
+namespace CapaLogica
 {
     public class Sentencia
     {
@@ -17,7 +17,7 @@ namespace CapaDatos
         {
             sql = "";
             sql = "INSERT INTO " + tabla + " (";
-            for(int i = 0; i < campos.Length; i++)
+            for (int i = 0; i < campos.Length; i++)
             {
                 sql = sql + campos[i] + ", ";
             }
@@ -40,7 +40,6 @@ namespace CapaDatos
         {
             return sql;
         }
-
         //Creacion de sentencia para Modificar
         public void actualizar(string tabla, params string[] campos)
         {

@@ -8,50 +8,45 @@ using CapaDatos;
 
 namespace CapaLogica
 {
-   public class Logica
+    public class Logica
     {
-
         Conexion con = new Conexion();
+        Sentencia sen = new Sentencia();
+
         Commandos comando = new Commandos();
-        public void conectar()
+        //string sSentencia = "INSERT INTO prueba VALUES('Julios', 'Lutin', '43')";
+
+        public void pubInsertarDatos()
         {
-           
-            
-            try
-            {
-                con.ObtenerConexion();
-            }
-            catch (Exception)
-            {
-                throw;
-            } 
+            comando.pubInsertData(sen.obtenerSentencia());
+        }
+        public void insertar(string sTabla, string[] sCampos)
+        {
+            sen.insertar(sTabla, sCampos);
+        }
+        //Boton Ingresar--------------------------------------
+        public void insertarCampos(string sCampos)
+        {
+            sen.insertarCampos(sCampos);
+        }
+        public void terminarSentencia()
+        {
+            sen.terminarSentencia();
         }
 
-        public void InsertarDatosProcedure(int num, string callPro, string[] lista)
+        //Boton Editar-----------------------------------------
+
+        public void actualizar(string sTa, string[] sCampos)
         {
-            string signo = "?", coma = ",";
-            string temp=null, aux;
-
-           /* string[] lista = new string[3];
-            lista[0] = "Julio";
-            lista[1] = "Sicaja";
-            lista[2] = "12";*/
-
-            //For de concatenar todos las variables del procedimiento almacenado
-            for (int i = 1; i <= num; i++)
-            {
-                if (i == num)
-                {
-                    temp = temp + signo;
-                }
-                else
-                {
-                    temp = temp + signo;
-                    temp = temp + coma;
-                }
-            }
-            aux = "{CALL " + callPro + "(" + temp + ")}";
-            comando.InsertProcedure(aux, lista);   
+            sen.actualizar(sTa, sCampos);
+        }
+        public void modificarCampos(string sCampos)
+        {
+            sen.modificarCampos(sCampos);
+        }
+        public void terminarSentenciaModificar(string sKey)
+        {
+            sen.terminarSentenciaModificar(sKey);
         }
     }
 }
