@@ -23,7 +23,8 @@ namespace CapaDiseno
         //Insertar lista = new Insertar();
         List<string> campos = new List<string>();
 
-        //PEDIR NOMBRE DE LA FORMA------------------------------------------Prueba---
+        //PEDIR NOMBRE DE LA FORMA------------------------------------------Prueba-de-Julio-
+        //comentario jz
         Form forma;
         [Description("Nombre de la Forma")]
         [DisplayName("Form")]
@@ -35,6 +36,7 @@ namespace CapaDiseno
             set { forma = value; }
         }
         //PEDIR NOMBRE DE LOS PROCEDIMIENTOS--------------------------------RAMAS-----
+        // comentario....
         string procedimiento;
         [Description("Nombre del Procedimiento")]
         [DisplayName("Procedimiento")]
