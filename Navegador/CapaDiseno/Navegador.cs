@@ -34,7 +34,7 @@ namespace CapaDiseno
             get { return forma; }
             set { forma = value; }
         }
-        //PEDIR NOMBRE DE LOS PROCEDIMIENTOS-------------------------------------
+        //PEDIR NOMBRE DE LOS PROCEDIMIENTOS--------------------------------RAMAS-----
         string procedimiento;
         [Description("Nombre del Procedimiento")]
         [DisplayName("Procedimiento")]
