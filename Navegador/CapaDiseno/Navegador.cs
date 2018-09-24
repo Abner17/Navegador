@@ -23,7 +23,7 @@ namespace CapaDiseno
         //Insertar lista = new Insertar();
         List<string> campos = new List<string>();
 
-        //PEDIR NOMBRE DE LA FORMA------------------------------------------Prueba---
+        //PEDIR NOMBRE DE LA FORMA------------------------------------------Prueba-de-Julio-
         Form forma;
         [Description("Nombre de la Forma")]
         [DisplayName("Form")]
