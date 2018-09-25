@@ -231,8 +231,12 @@ namespace CapaDiseno
         private void Btn_borrar_Click(object sender, EventArgs e)
         {
             int fila = DataGr.CurrentRow.Index;
-            //lo.pubEliminar(tabla, fila.ToString(), camposTabla);
-            Console.WriteLine("Fila:  " + fila);
+            string id = dataGr.Rows[fila].Cells[0].Value.ToString();
+            lo.pubEliminar(tabla, id, camposTabla);
+            Console.WriteLine("FilasSS:  " + fila);
+            Console.WriteLine("iD:  " + id);
+
+            MessageBox.Show("Borrado Exitosamente");
         }
         private void Btn_refrescar_Click(object sender, EventArgs e)
         {

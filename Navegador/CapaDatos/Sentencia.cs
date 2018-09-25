@@ -93,7 +93,8 @@ namespace CapaLogica
         {
             sql = "";
             this.campos = campos;
-            sql = "UPDATE" + tabla + "SET estado = '1' where" + campos[0] + " = " + id + "'";
+            sql = "UPDATE " + tabla + " SET status = '1' WHERE " + campos[0] + " = '" + id + "'";
+            
         }
     }
 }

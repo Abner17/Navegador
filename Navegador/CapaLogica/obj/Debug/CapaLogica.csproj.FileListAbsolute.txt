@@ -52,3 +52,10 @@ C:\Users\monik\Source\Repos\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.
 C:\Users\monik\Source\Repos\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.dll
 C:\Users\monik\Source\Repos\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.pdb
 >>>>>>> master
+C:\Users\Usuario\source\repos\Navegador\Navegador\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Usuario\source\repos\Navegador\Navegador\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Usuario\source\repos\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\source\repos\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\source\repos\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\source\repos\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Usuario\source\repos\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.pdb
