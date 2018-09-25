@@ -21,3 +21,10 @@ C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\obj\Debug\Capa
 C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
 C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.dll
 C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Julio\Source\Repos\Navegador\Navegador\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Julio\Source\Repos\Navegador\Navegador\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Julio\Source\Repos\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Julio\Source\Repos\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Julio\Source\Repos\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\Julio\Source\Repos\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Julio\Source\Repos\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.pdb

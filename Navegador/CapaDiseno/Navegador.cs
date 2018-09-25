@@ -14,7 +14,7 @@ namespace CapaDiseno
 
     public partial class Navegador : UserControl
     {
-        
+        private int sBanIngresar = 0;
         static int cantidadCampos;
         static string tabla;
         static string[] camposTabla;
@@ -62,19 +62,19 @@ namespace CapaDiseno
         public Navegador()
         {
             InitializeComponent();
-          
+
         }
         public void nombreForm(Form fm)
         {
             forma = fm;
         }
 
-        
+
 
 
         private void button14_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Aiuda");
         }
 
         public void ingresarTabla_Campos(string table, params string[] camposIniciales)
@@ -85,6 +85,7 @@ namespace CapaDiseno
         }
         private void Btn_ingresar_Click(object sender, EventArgs e)
         {
+            sBanIngresar = 1;
             lo.insertar(tabla, camposTabla);
             bool verificarIngreso = true;
             int j = 0;
@@ -138,9 +139,9 @@ namespace CapaDiseno
             }
 
         }
-
-        private void Btn_guardar_Click(object sender, EventArgs e)
+        private void priGuardar()
         {
+            sBanIngresar = 0;
             try
             {
                 lo.pubInsertarDatos();
@@ -151,6 +152,11 @@ namespace CapaDiseno
             {
                 MessageBox.Show("Error: " + ex);
             }
+        }
+
+        private void Btn_guardar_Click(object sender, EventArgs e)
+        {
+            priGuardar();
         }
 
         private void Btn_editar_Click(object sender, EventArgs e)
@@ -164,11 +170,23 @@ namespace CapaDiseno
 
         private void Btn_salir_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("¿Desea Salir?", "Salir", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1) == System.Windows.Forms.DialogResult.Yes)
+            if (sBanIngresar == 1)
+            {
+                DialogResult res = MessageBox.Show("¿Desea guardar los datos?", "Salir", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Exclamation);
+                if (res == DialogResult.Yes)
+                {
+                    priGuardar();
+                    forma.Close();
+                }
+                else if (res == DialogResult.No)
+                {
+                    sBanIngresar = 0;
+                    forma.Close();                 
+                }               
+            }else
             {
                 forma.Close();
             }
-
         }
     }
 }
