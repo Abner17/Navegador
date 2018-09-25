@@ -22,6 +22,7 @@ namespace CapaDiseno
 
         //Insertar lista = new Insertar();
         List<string> campos = new List<string>();
+        string HolaKarina;
 
         //PEDIR NOMBRE DE LA FORMA------------------------------------------Prueba-de-Julio-
         Form forma;
@@ -34,6 +35,8 @@ namespace CapaDiseno
             get { return forma; }
             set { forma = value; }
         }
+
+        //Hola soy Sindy
 
         //PEDIR NOMBRE DE LOS PROCEDIMIENTOS--------------------------------RAMAS-----
         // comentario....
@@ -192,6 +195,16 @@ namespace CapaDiseno
         private void Btn_anterior_Click(object sender, EventArgs e)
         {
             //Manda el número de flecha al que pertenece este botón para saber hacia donde moverse.
+        }
+
+        private void Btn_cancelar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Btn_imprimir_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
