@@ -17,6 +17,13 @@ namespace CapaDatos
             cmd.CommandText = sParametro;
             cmd.ExecuteNonQuery();
         }
- 
+        /*
+        public void pubBitacora()
+        {
+            OdbcCommand cmd = nuevo.ObtenerConexion().CreateCommand();
+            cmd.CommandText = "'Insert into Bitacora values ()'";
+            cmd.ExecuteNonQuery();
+        }*/
+
     }
 }

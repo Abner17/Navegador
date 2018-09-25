@@ -146,6 +146,8 @@ namespace CapaDiseno
             {
                 lo.pubInsertarDatos();
                 MessageBox.Show("Guardado Exitosamente");
+                //Guardar en Bitácora
+                
                 MessageBox.Show("1 002 pc_julio insert 23:40 20/agosto/2018 ");
             }
             catch (Exception ex)
