@@ -11,14 +11,16 @@ using CapaLogica;
 
 namespace CapaDiseno
 {
-
+    
     public partial class Navegador : UserControl
     {
+        
         private int sBanIngresar = 0;
         static int cantidadCampos;
         static string tabla;
         static string[] camposTabla;
         Logica lo = new Logica();
+        Flechas fle = new Flechas();
 
         //Insertar lista = new Insertar();
         List<string> campos = new List<string>();
@@ -58,7 +60,7 @@ namespace CapaDiseno
         }
 
         private int nControl;
-        private string[] list;
+        ///private string[] list;
         public Navegador()
         {
             InitializeComponent();
@@ -192,6 +194,26 @@ namespace CapaDiseno
         private void Btn_anterior_Click(object sender, EventArgs e)
         {
             //Manda el número de flecha al que pertenece este botón para saber hacia donde moverse.
+            int flecha = 2;
+            fle.movimiento(flecha,dataGr);
+        }
+
+        private void Btn_siguiente_Click(object sender, EventArgs e)
+        {
+            int flecha = 1;
+            fle.movimiento(flecha, dataGr);
+        }
+
+        private void Btn_final_Click(object sender, EventArgs e)
+        {
+            int flecha = 3;
+            fle.movimiento(flecha,dataGr);
+        }
+
+        private void Btn_inicio_Click(object sender, EventArgs e)
+        {
+            int flecha = 0;
+            fle.movimiento(flecha,dataGr);
         }
     }
 }
