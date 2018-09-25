@@ -34,6 +34,7 @@ namespace CapaDiseno
             get { return forma; }
             set { forma = value; }
         }
+
         //PEDIR NOMBRE DE LOS PROCEDIMIENTOS--------------------------------RAMAS-----
         // comentario....
         string procedimiento;
