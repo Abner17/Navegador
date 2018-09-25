@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using CapaDatos;
-
+using System.Data.Odbc;
+using System.Data;
 
 namespace CapaLogica
 {
@@ -20,6 +21,7 @@ namespace CapaLogica
         {
             comando.pubInsertData(sen.obtenerSentencia());
         }
+
         public void insertar(string sTabla, string[] sCampos)
         {
             sen.insertar(sTabla, sCampos);
@@ -47,6 +49,12 @@ namespace CapaLogica
         public void terminarSentenciaModificar(string sKey)
         {
             sen.terminarSentenciaModificar(sKey);
+        }
+        public DataTable refrescar(string sTabla, string[] sCampos)
+        {
+            sen.seleccionar(sTabla, sCampos);
+            DataTable table =  comando.pubSeleccionarData(sen.obtenerSentencia());
+            return table;
         }
     }
 }

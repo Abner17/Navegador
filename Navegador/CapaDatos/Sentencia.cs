@@ -84,8 +84,8 @@ namespace CapaLogica
             }
             char[] quitar = { ',', ' ' };
             sql = sql.TrimEnd(quitar);
-            sql = sql + " FROM " + tabla;
+            sql = sql + " FROM " + tabla + " WHERE status = '0'";
+           
         }
-        
     }
 }

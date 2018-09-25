@@ -19,3 +19,8 @@ C:\Users\Julio\Source\Repos\Navegador\Navegador\CapaDatos\bin\Debug\CapaDatos.pd
 C:\Users\Julio\Source\Repos\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
 C:\Users\Julio\Source\Repos\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\Julio\Source\Repos\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.pdb
