@@ -22,7 +22,7 @@ namespace CapaDiseno
 
         //Insertar lista = new Insertar();
         List<string> campos = new List<string>();
-        string HolaKarina;
+       
 
         //PEDIR NOMBRE DE LA FORMA------------------------------------------Prueba-de-Julio-
         Form forma;
@@ -193,6 +193,12 @@ namespace CapaDiseno
         private void Btn_anterior_Click(object sender, EventArgs e)
         {
             //Manda el número de flecha al que pertenece este botón para saber hacia donde moverse.
+        }
+
+        private void Btn_refrescar_Click(object sender, EventArgs e)
+        {
+           DataTable table =  lo.refrescar(tabla, camposTabla);
+            DataGr.DataSource = table;
         }
     }
 }
