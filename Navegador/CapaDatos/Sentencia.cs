@@ -87,5 +87,16 @@ namespace CapaLogica
             sql = sql + " FROM " + tabla + " WHERE status = '0'";
            
         }
+<<<<<<< HEAD
+
+        public void pubDelete(string tabla, string id, params string[] campos)
+        {
+            sql = "";
+            this.campos = campos;
+            sql = "UPDATE" + tabla + "SET estado = '1' where" + campos[0] + " = " + id + "'";
+        }
+
+=======
+>>>>>>> master
     }
 }
