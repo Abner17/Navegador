@@ -24,11 +24,6 @@ namespace CapaDiseno
 
         //Insertar lista = new Insertar();
         List<string> campos = new List<string>();
-<<<<<<< HEAD
- 
-=======
-       
->>>>>>> master
 
         //PEDIR NOMBRE DE LA FORMA------------------------------------------Prueba-de-Julio-
         Form forma;
@@ -233,18 +228,16 @@ namespace CapaDiseno
 
         }
 
-<<<<<<< HEAD
         private void Btn_borrar_Click(object sender, EventArgs e)
         {
             int fila = DataGr.CurrentRow.Index;
             //lo.pubEliminar(tabla, fila.ToString(), camposTabla);
             Console.WriteLine("Fila:  " + fila);
-=======
+        }
         private void Btn_refrescar_Click(object sender, EventArgs e)
         {
            DataTable table =  lo.refrescar(tabla, camposTabla);
             DataGr.DataSource = table;
->>>>>>> master
         }
     }
 }

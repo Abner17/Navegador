@@ -37,7 +37,6 @@ C:\Users\Usuario\Desktop\proyectoNavegador\Navegador\Navegador\CapaLogica\bin\De
 C:\Users\Usuario\Desktop\proyectoNavegador\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.dll
 C:\Users\Usuario\Desktop\proyectoNavegador\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.pdb
 =======
-<<<<<<< HEAD
 C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
 C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.dll
 C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.pdb
@@ -45,7 +44,6 @@ C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\N
 C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaLogica\bin\Debug\CapaLogica.pdb
 C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.dll
 C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.pdb
-=======
 C:\Users\monik\Source\Repos\Navegador\Navegador\CapaLogica\bin\Debug\CapaLogica.dll
 C:\Users\monik\Source\Repos\Navegador\Navegador\CapaLogica\bin\Debug\CapaLogica.pdb
 C:\Users\monik\Source\Repos\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.dll
@@ -53,5 +51,4 @@ C:\Users\monik\Source\Repos\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.p
 C:\Users\monik\Source\Repos\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
 C:\Users\monik\Source\Repos\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.dll
 C:\Users\monik\Source\Repos\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.pdb
->>>>>>> master
 >>>>>>> master

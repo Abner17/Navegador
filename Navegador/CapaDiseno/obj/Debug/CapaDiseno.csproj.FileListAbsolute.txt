@@ -62,7 +62,6 @@ C:\Users\Usuario\Desktop\proyectoNavegador\Navegador\Navegador\CapaDiseno\bin\De
 C:\Users\Usuario\Desktop\proyectoNavegador\Navegador\Navegador\CapaDiseno\bin\Debug\CapaLogica.pdb
 C:\Users\Usuario\Desktop\proyectoNavegador\Navegador\Navegador\CapaDiseno\bin\Debug\CapaDatos.pdb
 =======
-<<<<<<< HEAD
 C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaDiseno\obj\Debug\CapaDiseno.csprojResolveAssemblyReference.cache
 C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaDiseno\obj\Debug\CapaDiseno.Navegador.resources
 C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaDiseno\obj\Debug\CapaDiseno.Properties.Resources.resources
@@ -75,7 +74,6 @@ C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\N
 C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaDiseno\bin\Debug\CapaDatos.dll
 C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaDiseno\bin\Debug\CapaLogica.pdb
 C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaDiseno\bin\Debug\CapaDatos.pdb
-=======
 C:\Users\monik\Source\Repos\Navegador\Navegador\CapaDiseno\bin\Debug\CapaDiseno.dll
 C:\Users\monik\Source\Repos\Navegador\Navegador\CapaDiseno\bin\Debug\CapaDiseno.pdb
 C:\Users\monik\Source\Repos\Navegador\Navegador\CapaDiseno\bin\Debug\CapaLogica.dll
@@ -88,5 +86,4 @@ C:\Users\monik\Source\Repos\Navegador\Navegador\CapaDiseno\obj\Debug\CapaDiseno.
 C:\Users\monik\Source\Repos\Navegador\Navegador\CapaDiseno\obj\Debug\CapaDiseno.csproj.GenerateResource.Cache
 C:\Users\monik\Source\Repos\Navegador\Navegador\CapaDiseno\obj\Debug\CapaDiseno.dll
 C:\Users\monik\Source\Repos\Navegador\Navegador\CapaDiseno\obj\Debug\CapaDiseno.pdb
->>>>>>> master
 >>>>>>> master
