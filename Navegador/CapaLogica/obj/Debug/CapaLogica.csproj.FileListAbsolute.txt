@@ -12,3 +12,12 @@ C:\Users\User\Documents\Visual Studio 2015\Projects\CapaDatos\CapaLogica\bin\Deb
 C:\Users\User\Documents\Visual Studio 2015\Projects\CapaDatos\CapaLogica\bin\Debug\CapaLogica.pdb
 C:\Users\User\Documents\Visual Studio 2015\Projects\CapaDatos\CapaLogica\bin\Debug\CapaDatos.dll
 C:\Users\User\Documents\Visual Studio 2015\Projects\CapaDatos\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.pdb
