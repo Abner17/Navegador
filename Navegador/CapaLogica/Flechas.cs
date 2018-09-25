@@ -12,12 +12,7 @@ namespace CapaLogica
     {
         int contador = 1;
         static List<string> variables = new List<string>();
-     /*   DataGridView dataGr;
-        public void recibir(DataGridView data)
-        {
-            dataGr = data;
-        }
-       */ public void movimiento(int flecha,DataGridView dataGr)
+    public void movimiento(int flecha,DataGridView dataGr)
         {
             int columnas = dataGr.ColumnCount;
             int celdas = dataGr.Rows.Count;
