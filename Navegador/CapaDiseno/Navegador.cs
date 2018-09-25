@@ -188,5 +188,10 @@ namespace CapaDiseno
                 forma.Close();
             }
         }
+
+        private void Btn_anterior_Click(object sender, EventArgs e)
+        {
+            //Manda el número de flecha al que pertenece este botón para saber hacia donde moverse.
+        }
     }
 }

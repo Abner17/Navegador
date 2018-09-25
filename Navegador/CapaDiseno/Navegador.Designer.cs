@@ -226,6 +226,7 @@
             this.Btn_anterior.Text = "Anterior";
             this.Btn_anterior.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.Btn_anterior.UseVisualStyleBackColor = false;
+            this.Btn_anterior.Click += new System.EventHandler(this.Btn_anterior_Click);
             // 
             // Btn_siguiente
             // 
