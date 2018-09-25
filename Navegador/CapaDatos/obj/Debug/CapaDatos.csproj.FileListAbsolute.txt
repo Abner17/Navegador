@@ -37,3 +37,8 @@ C:\Users\monik\Source\Repos\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.cs
 C:\Users\monik\Source\Repos\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\monik\Source\Repos\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.pdb
 >>>>>>> master
+C:\Users\KaRi\Source\Repos\Navegador\Navegador\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\KaRi\Source\Repos\Navegador\Navegador\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\KaRi\Source\Repos\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\KaRi\Source\Repos\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\KaRi\Source\Repos\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.pdb
