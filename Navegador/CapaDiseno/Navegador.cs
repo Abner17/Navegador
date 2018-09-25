@@ -201,5 +201,10 @@ namespace CapaDiseno
         {
 
         }
+
+        private void Btn_imprimir_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
