@@ -22,6 +22,7 @@ namespace CapaDiseno
 
         //Insertar lista = new Insertar();
         List<string> campos = new List<string>();
+        string HolaKarina;
 
         //PEDIR NOMBRE DE LA FORMA------------------------------------------Prueba-de-Julio-
         Form forma;
@@ -197,6 +198,11 @@ namespace CapaDiseno
         }
 
         private void Btn_cancelar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Btn_imprimir_Click(object sender, EventArgs e)
         {
 
         }
