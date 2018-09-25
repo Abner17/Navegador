@@ -1,0 +1,54 @@
+c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaLogica\bin\Debug\CapaLogica.dll
+c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaLogica\bin\Debug\CapaLogica.pdb
+c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaLogica\obj\Debug\CapaLogica.dll
+c:\users\julio\documents\visual studio 2015\Projects\CapaDatos\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Julio\documents\visual studio 2015\Projects\CapaDatos\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Julio\documents\visual studio 2015\Projects\CapaDatos\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\CapaDatos\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\CapaDatos\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CapaDatos\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\CapaDatos\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CapaDatos\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\CapaDatos\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CapaDatos\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\abner\Documents\GitKraken\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Julio\Source\Repos\Navegador\Navegador\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Julio\Source\Repos\Navegador\Navegador\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Julio\Source\Repos\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Julio\Source\Repos\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Julio\Source\Repos\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\Julio\Source\Repos\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Julio\Source\Repos\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.pdb
+<<<<<<< HEAD
+C:\Users\Usuario\Desktop\proyectoNavegador\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\proyectoNavegador\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Usuario\Desktop\proyectoNavegador\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Usuario\Desktop\proyectoNavegador\Navegador\Navegador\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Usuario\Desktop\proyectoNavegador\Navegador\Navegador\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Usuario\Desktop\proyectoNavegador\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Desktop\proyectoNavegador\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.pdb
+=======
+C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\KaRi\Documents\OCTAVO SEMESTRE\ANALISIS II\SEGUNDO PROYECTO\NAVEGADOR\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\monik\Source\Repos\Navegador\Navegador\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\monik\Source\Repos\Navegador\Navegador\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\monik\Source\Repos\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\monik\Source\Repos\Navegador\Navegador\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\monik\Source\Repos\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\monik\Source\Repos\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\monik\Source\Repos\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.pdb
+>>>>>>> master
