@@ -118,6 +118,7 @@
             this.Btn_cancelar.Text = "Cancelar";
             this.Btn_cancelar.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.Btn_cancelar.UseVisualStyleBackColor = false;
+            this.Btn_cancelar.Click += new System.EventHandler(this.Btn_cancelar_Click);
             // 
             // Btn_borrar
             // 
@@ -136,6 +137,7 @@
             this.Btn_borrar.Text = "Borrar";
             this.Btn_borrar.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.Btn_borrar.UseVisualStyleBackColor = false;
+            this.Btn_borrar.Click += new System.EventHandler(this.Btn_borrar_Click);
             // 
             // Btn_consultar
             // 
@@ -172,6 +174,7 @@
             this.Btn_imprimir.Text = "Imprimir";
             this.Btn_imprimir.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.Btn_imprimir.UseVisualStyleBackColor = false;
+            this.Btn_imprimir.Click += new System.EventHandler(this.Btn_imprimir_Click);
             // 
             // Btn_refrescar
             // 
@@ -209,6 +212,7 @@
             this.Btn_inicio.Text = "Inicio";
             this.Btn_inicio.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.Btn_inicio.UseVisualStyleBackColor = false;
+            this.Btn_inicio.Click += new System.EventHandler(this.Btn_inicio_Click);
             // 
             // Btn_anterior
             // 
@@ -246,6 +250,7 @@
             this.Btn_siguiente.Text = "Siguiente";
             this.Btn_siguiente.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.Btn_siguiente.UseVisualStyleBackColor = false;
+            this.Btn_siguiente.Click += new System.EventHandler(this.Btn_siguiente_Click);
             // 
             // Btn_final
             // 
@@ -264,6 +269,7 @@
             this.Btn_final.Text = "Final";
             this.Btn_final.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.Btn_final.UseVisualStyleBackColor = false;
+            this.Btn_final.Click += new System.EventHandler(this.Btn_final_Click);
             // 
             // Btn_ayuda
             // 
