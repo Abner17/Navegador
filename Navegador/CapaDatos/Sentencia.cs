@@ -12,6 +12,11 @@ namespace CapaLogica
         string[] campos;
         int posicion = 1;
 
+        public void cancelarSentencia()
+        {
+            sql = "";
+        }
+
         //Creacion de sentencia para Insertar
         public void insertar(string tabla, params string[] campos)
         {
@@ -40,6 +45,7 @@ namespace CapaLogica
         {
             return sql;
         }
+
         //Creacion de sentencia para Modificar
         public void actualizar(string tabla, params string[] campos)
         {
@@ -66,5 +72,20 @@ namespace CapaLogica
             sql = sql + " WHERE " + campos[0] + " = '" + llavePrimaria + "';";
             Console.WriteLine(sql);
         }
+        
+        //Creacion de la sentencia para Seleccionar
+        public void seleccionar(string tabla, params string[] campos)
+        {
+            sql = "";
+            sql = "SELECT ";
+            for (int i = 0; i < campos.Length; i++)
+            {
+                sql = sql + campos[i] + ", ";
+            }
+            char[] quitar = { ',', ' ' };
+            sql = sql.TrimEnd(quitar);
+            sql = sql + " FROM " + tabla;
+        }
+        
     }
 }
