@@ -24,7 +24,7 @@ namespace CapaDiseno
         List<string> campos = new List<string>();
 
         //PEDIR NOMBRE DE LA FORMA------------------------------------------Prueba-de-Julio-
-        //Creando comentario
+        //Creando
         Form forma;
         [Description("Nombre de la Forma")]
         [DisplayName("Form")]
