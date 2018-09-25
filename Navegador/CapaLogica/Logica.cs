@@ -48,5 +48,11 @@ namespace CapaLogica
         {
             sen.terminarSentenciaModificar(sKey);
         }
+        public void pubEliminar(string tabla,string id, params string[] campos)
+        {
+            sen.pubDelete(tabla, id, campos);
+            comando.pubInsertData(sen.obtenerSentencia());
+        }
+
     }
 }

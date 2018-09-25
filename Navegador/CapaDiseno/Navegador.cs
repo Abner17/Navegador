@@ -22,7 +22,7 @@ namespace CapaDiseno
 
         //Insertar lista = new Insertar();
         List<string> campos = new List<string>();
-        string HolaKarina;
+ 
 
         //PEDIR NOMBRE DE LA FORMA------------------------------------------Prueba-de-Julio-
         Form forma;
@@ -205,6 +205,13 @@ namespace CapaDiseno
         private void Btn_imprimir_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void Btn_borrar_Click(object sender, EventArgs e)
+        {
+            int fila = DataGr.CurrentRow.Index;
+            //lo.pubEliminar(tabla, fila.ToString(), camposTabla);
+            Console.WriteLine("Fila:  " + fila);
         }
     }
 }
