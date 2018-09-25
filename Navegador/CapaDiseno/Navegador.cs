@@ -23,7 +23,7 @@ namespace CapaDiseno
         Flechas fle = new Flechas();
 
         //Insertar lista = new Insertar();
-        List<string> campos = new List<string>();
+        
 
         //PEDIR NOMBRE DE LA FORMA------------------------------------------Prueba-de-Julio-
         Form forma;
@@ -89,6 +89,7 @@ namespace CapaDiseno
         }
         private void Btn_ingresar_Click(object sender, EventArgs e)
         {
+            List<string> campos = new List<string>();
             sBanIngresar = 1;
             lo.insertar(tabla, camposTabla);
             bool verificarIngreso = true;
