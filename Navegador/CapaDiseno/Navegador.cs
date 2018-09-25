@@ -14,7 +14,7 @@ namespace CapaDiseno
 
     public partial class Navegador : UserControl
     {
-        //Prueba rama Abner
+        
         static int cantidadCampos;
         static string tabla;
         static string[] camposTabla;
