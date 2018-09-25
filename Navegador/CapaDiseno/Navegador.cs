@@ -35,6 +35,8 @@ namespace CapaDiseno
             set { forma = value; }
         }
 
+        //Hola soy Sindy
+
         //PEDIR NOMBRE DE LOS PROCEDIMIENTOS--------------------------------RAMAS-----
         // comentario....
         string procedimiento;
@@ -192,6 +194,11 @@ namespace CapaDiseno
         private void Btn_anterior_Click(object sender, EventArgs e)
         {
             //Manda el número de flecha al que pertenece este botón para saber hacia donde moverse.
+        }
+
+        private void Btn_cancelar_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
