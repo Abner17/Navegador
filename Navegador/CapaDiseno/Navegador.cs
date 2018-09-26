@@ -23,8 +23,27 @@ namespace CapaDiseno
         Logica lo = new Logica();
         Flechas fle = new Flechas();
 
-        //Insertar lista = new Insertar();
-        
+        //Ayuda de Douglas
+        string sNombrechm;
+        [Description("Nombre de la Forma")]
+        [DisplayName("Nombre CHM")]
+        [Category("AreaDePrueba")]
+        public string pubNombrechm
+        {
+            get { return sNombrechm; }
+            set { sNombrechm = value; }
+        }
+
+        string sNombrehtml;
+        [Description("Nombre de la Forma")]
+        [DisplayName("Nombre HTML")]
+        [Category("AreaDePrueba")]
+        public string pubNombreHtml
+        {
+            get { return sNombrehtml; }
+            set { sNombrehtml = value; }
+        }
+
 
         //PEDIR NOMBRE DE LA FORMA------------------------------------------Prueba-de-Julio-
         Form forma;
@@ -75,9 +94,15 @@ namespace CapaDiseno
         }
 
 
+  
+
         private void button14_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Aiuda");
+            if (forma.CanSelect)
+            {
+                Help.ShowHelp(this, "C:\\Ayuda\\" + sNombrechm, sNombrehtml);
+                //MessageBox.Show(sNombrechm);
+            }
         }
 
         public void ingresarTabla_Campos(string table, params string[] camposIniciales)
@@ -373,7 +398,25 @@ namespace CapaDiseno
 
         private void Btn_cancelar_Click(object sender, EventArgs e)
         {
+            Btn_guardar.Enabled = false;
 
+            DialogResult res = MessageBox.Show("¿Desea cancelar la accion?", "Cancelar", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Exclamation);
+            if (res == DialogResult.Yes)
+            {
+                foreach (Control componente in forma.Controls)
+                {
+
+                    if ((componente is TextBox) || (componente is ComboBox))
+                    {
+                        componente.Text = "";
+                    }
+                }
+                MessageBox.Show("Accion Cancelada");
+            }
+            else if (res == DialogResult.No)
+            {
+
+            }
         }
 
         private void Btn_imprimir_Click(object sender, EventArgs e)
