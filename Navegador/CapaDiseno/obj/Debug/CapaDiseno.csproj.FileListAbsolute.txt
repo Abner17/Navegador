@@ -99,3 +99,17 @@ C:\Users\Usuario\source\repos\Navegador\Navegador\CapaDiseno\obj\Debug\CapaDisen
 C:\Users\Usuario\source\repos\Navegador\Navegador\CapaDiseno\obj\Debug\CapaDiseno.csproj.GenerateResource.Cache
 C:\Users\Usuario\source\repos\Navegador\Navegador\CapaDiseno\obj\Debug\CapaDiseno.dll
 C:\Users\Usuario\source\repos\Navegador\Navegador\CapaDiseno\obj\Debug\CapaDiseno.pdb
+C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDiseno\bin\Debug\CapaDiseno.dll
+C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDiseno\bin\Debug\CapaDiseno.pdb
+C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDiseno\bin\Debug\CapaLogica.dll
+C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDiseno\bin\Debug\CapaDatos.dll
+C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDiseno\bin\Debug\CapaLogica.pdb
+C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDiseno\bin\Debug\CapaDatos.pdb
+C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDiseno\obj\Debug\CapaDiseno.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDiseno\obj\Debug\CapaDiseno.Navegador.resources
+C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDiseno\obj\Debug\CapaDiseno.Properties.Resources.resources
+C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDiseno\obj\Debug\CapaDiseno.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDiseno\obj\Debug\CapaDiseno.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDiseno\obj\Debug\CapaDiseno.csproj.CopyComplete
+C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDiseno\obj\Debug\CapaDiseno.dll
+C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDiseno\obj\Debug\CapaDiseno.pdb

@@ -164,13 +164,166 @@ namespace CapaDiseno
             priGuardar();
         }
 
+        bool existeGrid = false;
+        Panel panel = new Panel();
+        int y = 40;
+        int conteo = 0;
+        int n;
         private void Btn_editar_Click(object sender, EventArgs e)
         {
-            lo.actualizar(tabla, camposTabla);
-            lo.modificarCampos("karla");
-            lo.modificarCampos("guatemala");
-            lo.terminarSentenciaModificar("002");
-            MessageBox.Show("Edicion Exitosa");
+            foreach (Control c in forma.Controls)
+            {
+                if (c is Panel)
+                {
+                    foreach (Control d in c.Controls)
+                    {
+                        if (d is DataGridView)
+                        {
+                            existeGrid = true;
+                        }
+                    }
+                }
+
+
+                if (c is DataGridView)
+                {
+                    existeGrid = true;
+
+                }
+            }
+
+            //validacion para poder editar
+
+
+            if (existeGrid == true)
+            {
+                string datoindice;
+                try
+                {
+                    datoindice = dataGr.CurrentRow.Index.ToString();
+                }
+                catch (Exception)
+                {
+                    datoindice = "";
+                }
+                if (datoindice != "")
+                {
+                    panel.Visible = true;
+                    conteo = 0;
+                    panel.Controls.Clear();
+                    y = 40;
+                    n = dataGr.CurrentRow.Index;
+                    int columnas = dataGr.ColumnCount;
+                    string columnName = "";
+                    string dato = "";
+                    Label label = new Label();
+                    label.Text = "Herramienta Editar";
+                    panel.Controls.Add(label);
+                    label.Location = new Point(5, 5);
+
+                    for (int i = 1; i < columnas; i++)
+                    {
+
+                        columnName = dataGr.Columns[i].HeaderText;
+
+
+                        dato = Convert.ToString(dataGr.Rows[n].Cells[i].Value);
+                        crearTextBox(columnName, dato);
+                    }
+
+                    Button button = new Button();
+                    button.Text = "ACTUALIZAR DATOS";
+                    button.Name = "buton";
+                    button.Height = 30;
+                    button.Width = 150;
+                    button.BackColor = Color.WhiteSmoke;
+                    button.Location = new Point(120, 7);
+                    panel.Controls.Add(button);
+                    panel.Height = y;
+                    forma.Controls.Add(panel);
+                    panel.BringToFront();
+
+
+
+                    button.Click += new EventHandler(actualizarABD);
+                }
+                else
+                {
+                    MessageBox.Show("debe seleccionar una fila para habilitar la edicion");
+
+                }
+
+            }
+            else
+            {
+                MessageBox.Show("No existe una tabla de edicion, por lo tanto no es posible esta accion");
+            }
+        }
+
+
+        private void actualizarABD(object sender, EventArgs e)
+        {
+            int columnas = dataGr.ColumnCount;
+            string columnName = "";
+            string dato = "";
+            string primerdato = "";
+            lo.actualizar(null, null);
+           lo.actualizar(tabla, camposTabla);
+            for (int i = 1; i < columnas; i++)
+            {
+                foreach (Control c in forma.Controls)
+                {
+                    if (c is Panel)
+                    {
+                        foreach (Control d in c.Controls)
+                        {
+                            if (d is TextBox)
+                            {
+                                if (d.Name == "txtEditar" + i)
+                                {
+                                   lo.modificarCampos(d.Text);
+                                }
+                            }
+                        }
+                    }
+                    if (c is TextBox)
+                    {
+                        if (c.Name == "txtEditar" + i)
+                        {
+                         lo.modificarCampos(c.Text);
+                        }
+                    }
+                }
+            }
+            dato = Convert.ToString(dataGr.Rows[n].Cells[0].Value);
+            lo.terminarSentenciaModificar(dato);
+            lo.limpiarsql();
+            panel.Controls.Clear();
+            panel.Visible = false;
+            MessageBox.Show("Datos Actualizados");
+        }
+
+        private void crearTextBox(string encabezado, string dato)
+        {
+            Label label = new Label();
+            label.Text = encabezado + ": ";
+            label.BackColor = Color.Wheat;
+            label.Size = new System.Drawing.Size(70, 20);
+            label.Location = new Point(5, y);
+            panel.Controls.Add(label);
+            panel.Location = new Point(5, 70);
+            panel.Width = 290;
+            TextBox tem = new TextBox();
+            tem.Height = 23;
+            tem.Width = 200;
+            tem.Location = new Point(85, y);
+            y += 25;
+            conteo++;
+            tem.Name = "txtEditar" + conteo.ToString();
+            tem.Text = dato;
+            panel.Controls.Add(tem);
+            panel.BackColor = Color.Gray;
+
         }
 
         private void Btn_salir_Click(object sender, EventArgs e)

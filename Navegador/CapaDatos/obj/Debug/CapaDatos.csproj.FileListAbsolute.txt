@@ -42,3 +42,9 @@ C:\Users\Usuario\source\repos\Navegador\Navegador\CapaDatos\bin\Debug\CapaDatos.
 C:\Users\Usuario\source\repos\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
 C:\Users\Usuario\source\repos\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\Usuario\source\repos\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.pdb

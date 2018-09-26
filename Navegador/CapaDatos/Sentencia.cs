@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CapaDatos;
+using System.Data.Odbc;
+
 
 namespace CapaLogica
 {
@@ -71,8 +74,20 @@ namespace CapaLogica
             sql = sql.TrimEnd(quitar);
             sql = sql + " WHERE " + campos[0] + " = '" + llavePrimaria + "';";
             Console.WriteLine(sql);
+            Conexion nuevo = new Conexion();
+            OdbcCommand cmd = nuevo.ObtenerConexion().CreateCommand();
+            cmd.CommandText = sql;
+            cmd.ExecuteNonQuery();
         }
-        
+
+        public void limpiarsql()
+        {
+            sql = "";
+            posicion = 1;
+            campos = null;
+           
+        }
+
         //Creacion de la sentencia para Seleccionar
         public void seleccionar(string tabla, params string[] campos)
         {

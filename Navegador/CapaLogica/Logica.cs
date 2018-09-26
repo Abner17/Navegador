@@ -50,6 +50,10 @@ namespace CapaLogica
         {
             sen.terminarSentenciaModificar(sKey);
         }
+        public void limpiarsql()
+        {
+            sen.limpiarsql();
+        }
 
         public void pubEliminar(string tabla,string id, params string[] campos)
         {
