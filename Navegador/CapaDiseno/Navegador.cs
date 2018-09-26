@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using CapaLogica;
+using DLL__Reporteador;
 
 namespace CapaDiseno
 {
@@ -72,8 +73,6 @@ namespace CapaDiseno
         {
             forma = fm;
         }
-
-
 
 
         private void button14_Click(object sender, EventArgs e)
@@ -379,7 +378,8 @@ namespace CapaDiseno
 
         private void Btn_imprimir_Click(object sender, EventArgs e)
         {
-
+            Reporteador frmMSG = new Reporteador();
+            frmMSG.Show();
         }
 
         private void Btn_borrar_Click(object sender, EventArgs e)

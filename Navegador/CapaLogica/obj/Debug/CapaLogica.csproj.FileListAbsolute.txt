@@ -68,3 +68,12 @@ C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaLogica\obj\Debug\C
 C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
 C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.dll
 C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaLogica\obj\Debug\CapaLogica.pdb
+D:\Proyecto 2\Navegador\CapaLogica\bin\Debug\CapaLogica.dll
+D:\Proyecto 2\Navegador\CapaLogica\bin\Debug\CapaLogica.pdb
+D:\Proyecto 2\Navegador\CapaLogica\bin\Debug\CapaDatos.dll
+D:\Proyecto 2\Navegador\CapaLogica\bin\Debug\CapaDatos.pdb
+D:\Proyecto 2\Navegador\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+D:\Proyecto 2\Navegador\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+D:\Proyecto 2\Navegador\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+D:\Proyecto 2\Navegador\CapaLogica\obj\Debug\CapaLogica.dll
+D:\Proyecto 2\Navegador\CapaLogica\obj\Debug\CapaLogica.pdb

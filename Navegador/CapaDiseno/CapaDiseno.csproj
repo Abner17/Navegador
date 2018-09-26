@@ -33,6 +33,9 @@
     <Reference Include="CapaLogica">
       <HintPath>..\CapaLogica\bin\Debug\CapaLogica.dll</HintPath>
     </Reference>
+    <Reference Include="DLL- Reporteador">
+      <HintPath>C:\Users\Gamers\Desktop\si\DLL- Reporteador.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
@@ -58,6 +61,12 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Compile Include="Reporteador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporteador.Designer.cs">
+      <DependentUpon>Reporteador.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Navegador.resx">
@@ -66,6 +75,9 @@
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteador.resx">
+      <DependentUpon>Reporteador.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

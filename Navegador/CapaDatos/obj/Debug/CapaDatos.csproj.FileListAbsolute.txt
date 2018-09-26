@@ -48,3 +48,9 @@ C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDatos\obj\Debug\Ca
 C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
 C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\diego\source\repos\Navegador\Navegador\Navegador\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Proyecto 2\Navegador\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Proyecto 2\Navegador\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Proyecto 2\Navegador\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\Proyecto 2\Navegador\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Proyecto 2\Navegador\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Proyecto 2\Navegador\CapaDatos\obj\Debug\CapaDatos.pdb
