@@ -84,8 +84,17 @@ namespace CapaLogica
             }
             char[] quitar = { ',', ' ' };
             sql = sql.TrimEnd(quitar);
-            sql = sql + " FROM " + tabla;
+            sql = sql + " FROM " + tabla + " WHERE status = '0'";
+           
         }
-        
+
+
+        public void pubDelete(string tabla, string id, params string[] campos)
+        {
+            sql = "";
+            this.campos = campos;
+            sql = "UPDATE " + tabla + " SET status = '1' WHERE " + campos[0] + " = '" + id + "'";
+            
+        }
     }
 }

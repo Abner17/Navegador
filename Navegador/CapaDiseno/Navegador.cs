@@ -23,8 +23,7 @@ namespace CapaDiseno
         Flechas fle = new Flechas();
 
         //Insertar lista = new Insertar();
-        List<string> campos = new List<string>();
-        string HolaKarina;
+        
 
         //PEDIR NOMBRE DE LA FORMA------------------------------------------Prueba-de-Julio-
         Form forma;
@@ -90,6 +89,7 @@ namespace CapaDiseno
         }
         private void Btn_ingresar_Click(object sender, EventArgs e)
         {
+            List<string> campos = new List<string>();
             sBanIngresar = 1;
             lo.insertar(tabla, camposTabla);
             bool verificarIngreso = true;
@@ -229,6 +229,22 @@ namespace CapaDiseno
         private void Btn_imprimir_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void Btn_borrar_Click(object sender, EventArgs e)
+        {
+            int fila = DataGr.CurrentRow.Index;
+            string id = dataGr.Rows[fila].Cells[0].Value.ToString();
+            lo.pubEliminar(tabla, id, camposTabla);
+            Console.WriteLine("FilasSS:  " + fila);
+            Console.WriteLine("iD:  " + id);
+
+            MessageBox.Show("Borrado Exitosamente");
+        }
+        private void Btn_refrescar_Click(object sender, EventArgs e)
+        {
+           DataTable table =  lo.refrescar(tabla, camposTabla);
+            DataGr.DataSource = table;
         }
     }
 }
