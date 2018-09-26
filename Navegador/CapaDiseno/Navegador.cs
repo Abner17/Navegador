@@ -394,7 +394,25 @@ namespace CapaDiseno
 
         private void Btn_cancelar_Click(object sender, EventArgs e)
         {
+            Btn_guardar.Enabled = false;
 
+            DialogResult res = MessageBox.Show("¿Desea cancelar la accion?", "Cancelar", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Exclamation);
+            if (res == DialogResult.Yes)
+            {
+                foreach (Control componente in forma.Controls)
+                {
+
+                    if ((componente is TextBox) || (componente is ComboBox))
+                    {
+                        componente.Text = "";
+                    }
+                }
+                MessageBox.Show("Accion Cancelada");
+            }
+            else if (res == DialogResult.No)
+            {
+
+            }
         }
 
         private void Btn_imprimir_Click(object sender, EventArgs e)
