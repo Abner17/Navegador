@@ -1,0 +1,16 @@
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Julio\source\repos\Navegador\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Julio\source\repos\Navegador\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Julio\source\repos\Navegador\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Julio\source\repos\Navegador\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Julio\source\repos\Navegador\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\Julio\source\repos\Navegador\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Julio\source\repos\Navegador\CapaLogica\obj\Debug\CapaLogica.pdb

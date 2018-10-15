@@ -1,0 +1,10 @@
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Julio\source\repos\Navegador\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Julio\source\repos\Navegador\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Julio\source\repos\Navegador\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Julio\source\repos\Navegador\CapaDatos\obj\Debug\CapaDatos.pdb
