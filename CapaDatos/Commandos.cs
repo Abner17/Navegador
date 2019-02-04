@@ -22,6 +22,7 @@ namespace CapaDatos
             cmd.ExecuteNonQuery();
         }
 
+        //PRUEBA DE CLASE DE INGENIERIA DE SOFTWARE
         public DataTable pubSeleccionarData(string sParametro)
         {
             OdbcCommand comando = new OdbcCommand(sParametro,nuevo2.ObtenerConexion());
