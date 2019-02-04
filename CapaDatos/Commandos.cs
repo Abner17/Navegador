@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,6 +9,7 @@ using System.Windows.Forms;
 
 namespace CapaDatos
 {
+    //esto es una prueba
     public class Commandos
     {
         Conexion nuevo = new Conexion();
@@ -21,6 +22,7 @@ namespace CapaDatos
             cmd.ExecuteNonQuery();
         }
 
+        //PRUEBA DE CLASE DE INGENIERIA DE SOFTWARE
         public DataTable pubSeleccionarData(string sParametro)
         {
             OdbcCommand comando = new OdbcCommand(sParametro,nuevo2.ObtenerConexion());
